@@ -4,8 +4,8 @@
 <br><h2>Let’s review what you’ve learned so far:</h2>
 
 <li>The position property allows you to specify the position of an element.
-<br>+When set to relative, an element’s position is relative to its default position on the page.
-<br>+When set to absolute, an element’s position is relative to its closest positioned parent element. It can be pinned to any part of the web page, but the element will still move with the rest of the document when the page is scrolled.
+<li>When set to relative, an element’s position is relative to its default position on the page.
+<li>When set to absolute, an element’s position is relative to its closest positioned parent element. It can be pinned to any part of the web page, but the element will still move with the rest of the document when the page is scrolled.
 <br>+When set to fixed, an element’s position can be pinned to any part of the web page. The element will remain in view no matter what.
 <br>+When set to sticky, an element can stick to a defined offset position when the user scrolls its parent container.
 <br>+The z-index of an element specifies how far back or how far forward an element appears on the page when it overlaps other elements.
